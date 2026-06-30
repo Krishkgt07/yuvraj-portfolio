@@ -47,6 +47,7 @@ const SKILLS = [
   { cat: 'Artifacts', items: ['Git', 'GitHub'], icon: Terminal, color: '#00f0ff', power: 87 },
 ];
 
+
 const PROJECTS = [{
   title: 'Smart Object Removal',
   tag: 'Software Development (AI/ML Lead)',
